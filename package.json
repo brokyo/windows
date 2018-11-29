@@ -8,6 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "nipplejs": "^0.7.1",
+    "startaudiocontext": "^1.2.1",
+    "tone": "^0.12.80",
+    "underscore": "^1.9.1",
     "vue": "^2.5.17"
   },
   "devDependencies": {
